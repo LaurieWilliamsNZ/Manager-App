@@ -1,0 +1,77 @@
+"users": 32322332 {
+	"firstName": "Tom",
+	"lastName": "Morton",
+	"email" : "email@example.com",
+	"recentSearches": {
+		"salad, Pizza, Tomato soup"
+	},
+	"collections": 
+		{
+			"name": "Healthy Food",
+			"Collectionrecipes": { "123, 4334"}
+		}
+		{
+			"name": "Junk Food",
+			"Collectionrecipes": {"445, 232"}
+		},
+	"favorites": {
+		"455, 5545"
+	},
+	"following": {
+
+	},
+	"followers": {
+
+	},
+	"Postedrecipes": {
+
+	}
+}
+
+"userItems": {
+	"firstName": "Tom",
+	"lastName": "Morton",
+	"userId" : 32322332
+}
+
+"recipes": {
+	{
+		"postAuthor": 32322332,
+		"recipePrivate": false,
+		"postDate": "12/02/2001",
+		"recipeType": "text",
+		"recipeServing": "4",
+		"recipeDifficulty": "Hard",
+		"recipePrepTime": "40 min",
+		"recipeAbout": "About this recipe ...",
+		"recipeMethod": "Grind the red chilies, green chilies, cumin seeds, garam masala, ginger, garlic, ...",
+		"recipeIngrediants": "4 dried red chillies ..",
+		"cookTime": "50 min",
+		"recipeTags": {"multigrain, fennel"}, 
+		"recipesName": {"Multigrain" "Salad"},
+	},
+	{
+		"postAuthor": 32322332,
+		"recipePrivate": false,
+		"postDate": "12/02/2001",
+		"recipeType": "image",
+		"recipeServing": "4",
+		"recipeDifficulty": "Hard",
+		"recipePrepTime": "40 min",
+		"recipeAbout": "About this recipe ...",
+		"recipeMethod": "Grind the red chilies, green chilies, cumin seeds, garam masala, ginger, garlic, ...",
+		"recipeIngrediants": "4 dried red chillies ..",
+		"cookTime": "50 min",
+		"recipeTags": {"multigrain, fennel"}, 
+		"recipesName": {"Multigrain" "Salad"},
+	},
+
+}
+
+"tags": {
+	
+},
+
+"Collections": {
+	
+}
